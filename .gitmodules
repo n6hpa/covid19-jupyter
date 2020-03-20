@@ -1,0 +1,3 @@
+[submodule "covid19-data"]
+	path = covid19-data
+	url = https://github.com/tomquisel/covid19-data.git
